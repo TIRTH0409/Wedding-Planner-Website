@@ -23,10 +23,10 @@ This project is a **Wedding Planner** website, designed to make dream weddings s
 
 ## 📂 File Structure
   Wedding-Planner/
-    ├── images/           # Image assets
-    ├── style.css         # Custom styles
-    ├── script.js         # Custom JavaScript
-    ├── index.html        # Main HTML file
+- ├── images/           # Image assets
+- ├── style.css         # Custom styles
+- ├── script.js         # Custom JavaScript
+- ├── index.html        # Main HTML file
 
 ## 📦 Libraries & CDN
 The project utilizes the following external resources:
@@ -34,11 +34,10 @@ The project utilizes the following external resources:
 - [Swiper.js](https://swiperjs.com/) for sliders.
 - [Font Awesome](https://fontawesome.com/) for icons.
 
-## 🛠 How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/wedding-planner.git
-
-- **Email**: [info@weddingplanner.com](mailto:info@weddingplanner.com)
-- **Phone**: +1 123-595-5555
+## 📧 Contact
+For questions or collaboration:
+  <ul>
+    <li><a href="https://linkedin.com/in/tirth0409" target="_blank">LinkedIn</a></li>
+    <li><a href="https://behance.net/TIRTH0409" target="_blank">Behance</a></li>
+  </ul>
 
